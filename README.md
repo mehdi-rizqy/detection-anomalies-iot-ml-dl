@@ -30,7 +30,7 @@ Une interface interactive a été développée avec `ipywidgets` et `matplotlib`
 ### Exemples de Matrices de confusion
 | Modèle H1 (Auto-Encoder + RF) | Modèle H2 (MLP + RF) |
 | :---: | :---: |
-| ![Camera PT838 H1](Camera_PT838_H1_confusion.png) | ![Camera PT838 H2](Camera_PT838_H2_confusion.png) |
+| ![Camera PT838 H1](Caméra_PT838_H1_confusion.png) | ![Camera PT838 H2](Caméra_PT838_H2_confusion.png) |
 | ![Sonnette Ennio H1](Sonnette_Ennio_H1_confusion.png) | ![Sonnette Ennio H2](Sonnette_Ennio_H2_confusion.png) |
 | ![Webcam H1](Webcam_H1_confusion.png) | ![Webcam H2](Webcam_H2_confusion.png) |
 
