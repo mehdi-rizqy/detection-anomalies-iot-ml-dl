@@ -25,7 +25,7 @@ Le projet utilise le jeu de données public **N-BaIoT** (UCI Machine Learning Re
 Une interface interactive a été développée avec `ipywidgets` et `matplotlib`. Elle permet de sélectionner l'appareil, de choisir le modèle (H1 ou H2) et de visualiser les métriques (Accuracy, Précision, Rappel, F1-Score) ainsi que la matrice de confusion.
 
 ### Comparaison des modèles H1 et H2
-![Comparaison H1 H2](Images/H1_H2_comparaison.png)
+![Comparaison H1 H2](H1_H2_comparaison.png)
 
 ### Exemples de Matrices de confusion
 | Modèle H1 (Auto-Encoder + RF) | Modèle H2 (MLP + RF) |
